@@ -10,7 +10,7 @@ jobs:
     name: Build & Deploy
     runs-on: ubuntu-latest
     if: |
-      github.repository_owner == 'wg-easy' &&
+      github.repository_owner == 'jdeath' &&
       !contains(github.event.head_commit.message, '!skipci')
     permissions:
       packages: write
