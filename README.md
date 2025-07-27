@@ -6,7 +6,7 @@
 [![Sponsor](https://img.shields.io/github/sponsors/weejewel)](https://github.com/sponsors/WeeJeWel)
 ![GitHub Stars](https://img.shields.io/github/stars/wg-easy/wg-easy)
 
-You have found the easiest way to install & manage WireGuard on any Linux host!
+You have found the easiest way to install & manage WireGuard on any Linux host! Test
 
 <p align="center">
   <img src="./assets/screenshot.png" width="802" />
